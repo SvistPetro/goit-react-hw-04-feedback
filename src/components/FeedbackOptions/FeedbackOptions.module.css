@@ -1,0 +1,9 @@
+.button {
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.thumb {
+    display: flex;
+    gap: 10px;
+}
